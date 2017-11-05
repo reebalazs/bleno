@@ -41,7 +41,7 @@
     "debug": "^2.2.0"
   },
   "optionalDependencies": {
-    "bluetooth-hci-socket": "https://git@github.com/reebalazs/node-bluetooth-hci-socket.git#electron",
+    "bluetooth-hci-socket": "https://github.com/reebalazs/node-bluetooth-hci-socket.git#electron",
     "bplist-parser": "0.0.6",
     "xpc-connection": "~0.1.4"
   }
